@@ -1,0 +1,62 @@
+[
+    {
+        "Location": "Chapultepec",
+        "machineID" : "01",
+        "Status": "running"
+    },
+    {
+        "Location": "Chapultepec",
+        "machineID" : "02",
+        "Status": "running"
+    },
+    {
+        "Location": "Chapultepec",
+        "machineID" : "03",
+        "Status": "running"
+    },
+    {
+        "Location": "Chapultepec",
+        "machineID" : "04",
+        "Status": "running"
+    },
+     {
+        "Location": "Huaxyacac",
+        "machineID" : "01",
+        "Status": "running"
+    },
+    {
+        "Location": "Huaxyacac",
+        "machineID" : "02",
+        "Status": "running"
+    },
+    {
+        "Location": "Huaxyacac",
+        "machineID" : "03",
+        "Status": "running"
+    },
+    {
+        "Location": "Huaxyacac",
+        "machineID" : "04",
+        "Status": "running"
+    },
+    {
+        "Location": "Zura",
+        "machineID" : "01",
+        "Status": "running"
+    },
+    {
+        "Location": "Zura",
+        "machineID" : "02",
+        "Status": "running"
+    },
+    {
+        "Location": "Zura",
+        "machineID" : "03",
+        "Status": "running"
+    },
+    {
+        "Location": "Zura",
+        "machineID" : "04",
+        "Status": "running"
+    }
+]
